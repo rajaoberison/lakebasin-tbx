@@ -2,4 +2,4 @@
 
 Delineate lake basin by downloading DEM and running ArcGIS tools. For each lake, the toolbox automatically download DEM (with the help of this [website](https://dwtkns.com/srtm30m/)). It's more usefulf for global scale analysis. Please explore the full code for more details.
 
-<img align="center" width="100%" height="150px" src="https://rajaoberison.github.io/images/portfolio/watershed.png">
+<img align="center" width="100%" src="https://rajaoberison.github.io/images/portfolio/watershed.png">
